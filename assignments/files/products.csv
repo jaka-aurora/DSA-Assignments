@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price,Quantity
+1,Smartphone,Electronics,299.99,50
+2,Laptop,Electronics,899.99,30
+3,Desk,Furniture,150.00,20
+4,Office Chair,Furniture,85.00,45
+5,Headphones,Electronics,29.99,100
+6,Monitor,Electronics,199.99,60
+7,Tablet,Electronics,399.99,40
+8,Smartwatch,Electronics,199.99,35
+9,Sofa,Furniture,450.00,10
+10,Dining Table,Furniture,350.00,15
+11,Bed,Furniture,500.00,8
+12,Treadmill,Sports,799.99,10
+13,Dumbbells,Sports,59.99,100
+14,Basketball,Sports,29.99,75
+15,Tennis Racket,Sports,89.99,40
+16,Football,Sports,25.00,90
+17,Jacket,Clothing,99.99,80
+18,T-Shirt,Clothing,19.99,150
+19,Jeans,Clothing,49.99,120
+20,Sneakers,Clothing,89.99,60
+21,Backpack,Accessories,39.99,100
+22,Watch,Accessories,199.99,50
+23,Wallet,Accessories,29.99,80
+24,Sunglasses,Accessories,19.99,70
+24,Reading lasses,Accessories,19.99,70
+26,Perfume,Beauty,59.99,40
+27,Shampoo,Beauty,9.99,200
+28,Conditioner,Beauty,10.99,180
+29,Face Cream,Beauty,24.99,100
+30,Basic Cream,Beauty,29.99,60
+31,Book,Stationery,14.99,100
+32,Notebook,Stationery,5.99,150
+33,Pen,Stationery,0.99,300
+34,Pencil,Stationery,0.49,250
+35,Eraser,Stationery,0.29,200
+36,Sharpener,Stationery,0.59,180
+37,Microwave,Electronics,129.99,30
+38,Blender,Electronics,49.99,50
+39,Coffee Maker,Electronics,79.99,45
+40,Refrigerator,Electronics,899.99,10
+41,Air Conditioner,Electronics,499.99,8
+42,Fan,Electronics,29.99,100
+43,Vacuum Cleaner,Electronics,149.99,35
+44,Bed Sheet,Home,19.99,150
+45,Pillow,Home,9.99,200
+46,Towel,Home,4.99,300
+47,Curtain,Home,15.99,100
+48,Floor Lamp,Home,39.99,25
+49,Wall Clock,Home,24.99,75
+50,Mirror,Home,29.99,60
