@@ -27,8 +27,8 @@ Consider the following points in your self-assessment:
 
 In your answer, follow the following Self-Assessment Template.
 
-* **TODO: YOUR NAME**  
-* **TODO: YOUR EMAIL at Jamk**
+* **JAKA COSIC**  
+* **AA6111@STUDENT.JAMK.FI**
  
 ## 1. Introduction
 

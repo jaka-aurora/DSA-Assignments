@@ -9,9 +9,9 @@ Rename this Markdown document in your repository and name it in the format **You
 
 Fill in your information.
 
-* **TODO: YOUR NAME** (The same as your name in Jamk's system) 
-* **TODO: COURSE CODE** (_TTC1050-30xx_)
-* **TODO:YOUR EMAIL at Jamk**
+* **JAKA COSIC** 
+* **TTC1050-3020**
+* **AA6111@STUDENT.JAMK.FI**
 
 ## Self-assessments 
 

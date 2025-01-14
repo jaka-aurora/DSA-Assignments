@@ -2,9 +2,9 @@
 
 Fill in your information first.
 
-* JAKA COSIC  
-* TTC1050-3020
-* AA6111@JAMK.STUDENT.FI
+* **JAKA COSIC**  
+* **TTC1050-3020**
+* **AA6111@STUDENT.JAMK.FI**
 
 Note! Remember to make the repository **Private** and give **Developer rights** to your teacher (_Esa or Juha_).
 
