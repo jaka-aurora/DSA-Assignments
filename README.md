@@ -2,9 +2,9 @@
 
 Fill in your information first.
 
-* **TODO: YOUR NAME** (The same as your name in Jamk's system) 
-* **TODO: COURSE CODE** (_TTC1050-30xx_)
-* **TODO:YOUR EMAIL at Jamk**
+* JAKA COSIC  
+* TTC1050-3020
+* AA6111@JAMK.STUDENT.FI
 
 Note! Remember to make the repository **Private** and give **Developer rights** to your teacher (_Esa or Juha_).
 
