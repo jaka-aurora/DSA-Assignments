@@ -12,7 +12,7 @@ Note! Keep the README up to date and, if necessary, link here the new files that
 
 ### Assignments
 
-More detailed instructions for calculating points for Assignments can be found in the [points](LastnameFirstname-points.md) file.
+More detailed instructions for calculating points for Assignments can be found in the [points](dsa-assignment-spring-2025\CosicHamalainenJaka.md) file.
 
 * [Assignment 1](assignments/assignment_tasks_01.ipynb)
 * [Assignment 2](assignments/assignment_tasks_02.ipynb)
