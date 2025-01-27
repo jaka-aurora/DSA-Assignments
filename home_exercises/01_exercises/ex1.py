@@ -10,8 +10,5 @@ def main():
     print(f"Megabytes\t {(mbytes):.6f} MB")
     print(f"Gigabytes\t {(gbytes):.6f} GB")
 
-    if __name__ == '__main__':
-        main()
-
-# model 01-02
-
+if __name__ == '__main__': 
+    main()

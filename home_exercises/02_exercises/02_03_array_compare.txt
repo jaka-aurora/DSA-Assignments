@@ -1,0 +1,34 @@
+Your answers 
+
+Update your home exercises in this directory when you have completed the given exercises.
+
+* Return tasks as source code (.py) or text file (.txt), depending on the exercise
+
+LIST 
+
+example_list = ["abc", 123, "some words", 1.23]
+
+Lists can contain different data types. Items can be changed in a list (removed, added, replaced).
+
+ARRAY 
+
+import array
+example_array = array.array('u', ["a", "2", "3"])
+
+Arrays are great for large datasets. The items in the array can be changed.
+However, an array can hold one type of data (only integers or only string, for example).
+Arrays can be created, for example, from array module or numpy library.
+
+TUPLE 
+
+example_tuple = ("abc", 123, "some words", 1.23)
+
+Tuples contain elements that cannot be modified. 
+A tuple can be spliced or indexed to access its elements. But, its contents cannot be modified. 
+Just like lists, tuples can also hold elements of different types.
+Good use for when the data shouldn't change.
+
+These data types all have pros and cons and their use depends on the use case. 
+List are generally used to store data because they are easily changed and manipulate.
+However, when working with large datasets, arrays are more efficient and work faster than lists. 
+Tuples are great for fixed data that needs to be read or accessed in some way but not changed. 
