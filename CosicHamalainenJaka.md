@@ -17,7 +17,7 @@ Fill in your information.
 
 | **Self-assessment** | 
 |:-------------------:|
-|          -          |
+|          X          |
 
 Unfortunately, no points, but an important start to the course.
 
