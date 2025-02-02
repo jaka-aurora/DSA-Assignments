@@ -32,21 +32,28 @@ In your answer, follow the following Self-Assessment Template.
  
 ## 1. Introduction
 
-A brief summary of the purpose of this self-assessment and the areas it covers.
+In this self-assessment I will reflect on my own feelings regarding the contents of this course and what I expect to gain from it. 
 
 ## 2. Skills
 
-Using concrete examples, describe your strengths and weaknesses in programming, especially in data structures and algorithms.
+I recognize that I lack more practice in Python programming language and I should build up my skills in other programming languages, such as C++.
+I feel that I do well in writing scripts, since I felt confident enough to create some scripts for work which ended up being used by others as well. 
+Nevertheless, I feel that I lack confidence in programming and have doubts about my understanding of the subject. 
+Overall, I feel that I understand the basic concept of an algorithm and I can identify it in other small-scale programs I've created in other classes. 
 
 ## 3. Learning
 
-Mention what you know or have learned before the course about programming, algorithms, and data structures.
+Before this class, we had prgramming classes, such as Basics of Programming and Object-Oriented Programming. I found the latter a bit challenging, but overall, I feel that I learned a bit moreabout how to think logically and how to structure and organize functions and programs. 
+Data structures were never really the primary topic in other classes, and were occassionally mentioned as something that exists. There was more focus on different data types and how to use them. However, I was aware that there is a difference compared to and array, for example. 
 
 ## 4. Objectives
 
-Document your goals and what you are trying to achieve in programming in general and data structures and algorithms in particular in this course.
+My primary goal is to confidently write my code and understand what I am writing, even if it's just the basics. I wish to have a solid foundation that I can continue to build upon.
+I would also like to understand the different data structures and how to use them, and in what scenarios.
 
 ## 5. Conclusion
 
-Summarize the self-assessment and outline the next steps and your own goals.
+Overall, I am starting this course a bit insecure and hesitant but I hope to reach at least these goals:
+   - write better code
+   - learn how to use different data structures
 
