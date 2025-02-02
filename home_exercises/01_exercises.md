@@ -41,14 +41,15 @@ Ask the user for two points:
 Then calculate the total grade between 0-5 based on the following table:
 
 ```
-limit
+limit       grade
 [32,36] 	5
 [28,32) 	4
 [24,28) 	3
-[18,22) 	2
+[18,24) 	2
 [15,18) 	1
 [0,15)   	0
 ```
+Note! In the table above, a parenthesis means that the given value is outside the range.
 
 An Example of Program Execution:
 
