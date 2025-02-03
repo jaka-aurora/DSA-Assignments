@@ -39,7 +39,7 @@ Usually one point per assignment if the answer is correct and the test in assign
 
 | **Assignment** | 1.1 | 1.2 | 1.3 | 1.4 | 2.1 | 2.2 | 2.3 | 2.4 | total |
 |:---------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Done**       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | 0/8p  |
+| **Done**       |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  | 8/8p  |
 
 #### Assignment 3 and 4
 
