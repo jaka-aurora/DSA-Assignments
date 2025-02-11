@@ -62,7 +62,7 @@ Weekly Home exercises (see week number like w3 == week 3, etc.). One point if at
 
 | **Exercises** | 01 (w3) | 02 (w4) | 03 (w5) | 04 (w6) | 05 (w7) | 06 (w8) | total |
 |:--------------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-----:|
-| **Done**      |    -    |    X    |    X    |    -    |    -    |    -    | 2/6p  |S
+| **Done**      |    -    |    X    |    X    |    X    |    -    |    -    | 2/6p  |S
 
 You show activity by doing home exercises. It is enough that the task is correct in your opinion.
 
@@ -81,13 +81,3 @@ Remember to return the final self-assessment after completing the course.
 |          -           | 
 
 Evaluated by teacher.
-
-## Example 
-
-**Note!** _This is just an example. You can remove this when you understand the idea._
-
-| **Assignment** | 1.1 | 1.2 | 1.3 | 1.4 | 2.1 | 2.2 | 2.3 | 2.4 | total |
-|:---------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Done**       |  X  |  X  |  X  |  -  |  X  |  ?  |  X  |  X  | 6/8p  |
-
-Note! Now _2.2_ will be evaluated by teacher. It is possible to get also 0.5p if the error is very small.
