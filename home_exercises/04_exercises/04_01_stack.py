@@ -39,7 +39,7 @@ def copy_stack(original_stack):
 
     # Restore original_stack and create a copy
     copied_stack = LifoQueue()
-    for item in reversed(temp_list):  # Reverse to maintain original order
+    for item in reversed(temp_list):
         original_stack.put(item)
         copied_stack.put(item)
 

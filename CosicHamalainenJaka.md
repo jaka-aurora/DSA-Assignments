@@ -27,7 +27,7 @@ Mark your attendance here. **80% attendance** is required on the first ten times
 
 | **Attendance** | w3 | w4 | w5 | w6 | w7 | w8 | w10 | w11 | w12 | w13 | total |
 |:---------------|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:---:|:---:|:---:|:-----:|
-| **Attendance** | X  | X  | X  | -  | -  | -  |  -  |  -  |  -  |  -  | 3/10  |    
+| **Attendance** | X  | X  | X  | X  | -  | -  |  -  |  -  |  -  |  -  | 3/10  |    
 
 * Note that **Week 14 and 16 are optional to participate** because they are reserved for a optional project that is not mandatory in this course.
 
