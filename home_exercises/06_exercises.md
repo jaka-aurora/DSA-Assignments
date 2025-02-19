@@ -33,11 +33,27 @@ class LinkedList:
 
     def remove_node(self, value):
         # TODO: Implement node removal logic
-        pass
+        if self.head:
+            self.head.remove(value)
+            current.next = self.head
+        else:
+            current.remove(value)
+            current = current.next
 
     def display(self):
-        # TODO: Implement display logic
-        pass
+        node_list = []
+        if not self.head:
+            print("List is empty")
+            return
+        current = self.head
+        node_list.append(str(current.value) + " -> ")
+        while current.next is not None:
+            current = current.next
+            if current.next:
+                node_list.append(str(current.value))
+            else:
+                node_list.append(str(current.value))
+        print("".join(node_list))
 
 # Test the implementation
 linked_list = LinkedList()
