@@ -1,21 +1,3 @@
-# Lesson Exercises
-
-## 07-01: Trie Tree
-
-A trie tree is used for efficient string storage and retrieval.
-
-In this assignment we have implemented `Trie` (prefix tree) data structure. 
-There is also `insert` function that add a word into the `Trie`.
-
-* initialize an array of 26 elements 
-* it has an empty slots reserved for letters _a-z_ (no other letters supported)
-
-
-Test the Trie by creating a `display()` method to show/print all the words in the Trie.
-
-* it will also recursively calls `_print_trie()` to handle all child nodes
-
-```python
 class TrieNode:
     def __init__(self):
         # Initialize an array of 26 elements to None (for each letter a-z)
@@ -51,39 +33,24 @@ class Trie:
 # order is preorder
 
     def _print_trie(self, node, word=''):
+        if node.is_end_of_word:
+            print(word) # print word when it is marked as the end
+        
+        for i in range(26):
+            if node.children[i] is not None:
+                new_letter = chr(i + ord('a'))
+                self._print_trie(node.children[i],word + new_letter) # gives correct order, can put new_letter + word to flip the word in the other order
+
         # TODO: stop/return if end of the word?
         # TODO: Iterate 26 characters and recursively show the child nodes
 
     def display(self):
         self._print_trie(self.root)
 
-        
-        
 trie = Trie()
 trie.insert("hello")
 trie.insert("help")
 trie.insert("trie")
 trie.insert("tree")
 # Plus other words
-# trie.display()
-```
-
-
-
-## 07-02: TrieNode with characters
-
-* Now in **07-01** solution shows only indexes _0-26_ as a child nodes.
-* Try to add character (with `char` property) to `TrieNode` and to show that info when you debug Nodes.  
-
-Recursive call in `_print_trie()` should be also change like this:
-
-```
-self._print_trie(node.children[i], word + node.children[i].char)
-```
-
-## 07-03: Trie Tree with Scandinavian characters
-
-Implement support to Trie tree to Scandinavian characters _'å', 'ä'_ and _'ö'_.
-
-Extra:
-* You can use a `dictionary (dict)` instead of a fixed-size array for children to handle any characters added.
+trie.display()
