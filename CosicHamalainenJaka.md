@@ -27,7 +27,7 @@ Mark your attendance here. **80% attendance** is required on the first ten times
 
 | **Attendance** | w3 | w4 | w5 | w6 | w7 | w8 | w10 | w11 | w12 | w13 | total |
 |:---------------|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:---:|:---:|:---:|:-----:|
-| **Attendance** | X  | X  | X  | X  | X  | X  |  X  |  -  |  -  |  -  | 7/10  |    
+| **Attendance** | X  | X  | X  | X  | X  | X  |  X  |  X  |  X  |  X  | 10/10  |    
 
 * Note that **Week 14 and 16 are optional to participate** because they are reserved for a optional project that is not mandatory in this course.
 
@@ -45,7 +45,7 @@ Usually one point per assignment if the answer is correct and the test in assign
 
 | **Assignment** | 3.1 | 3.2 | 3.3 | 3.4 | 4.1 | 4.2 | 4.3 | 4.4 | total |
 |:---------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Done**       |  X |  X  |  X  |  X  |  X  |  X  |  X  |  -  | 7/8p  |
+| **Done**       |  X |  X  |  X  |  X  |  X  |  X  |  X  |  -  | 7.5/8p  |
 
 
 #### Assignment 5 and 6
