@@ -52,7 +52,7 @@ Usually one point per assignment if the answer is correct and the test in assign
 
 | **Assignment** | 5.1 | 5.2 | 5.3 | 5.4 | 6.1 | 6.2 | 6.3 (2p) | total |
 |:---------------|:---:|:---:|:---:|:---:|:---:|:---:|:--------:|:-----:|
-| **Done**       |  -  |  -  |  -  |  -  |  -  |  -  |    -     | 0/8p  |
+| **Done**       |  X  |  X  |  X  |  X  |  -  |  -  |    -     | 4/8p  |
 
 The teacher gives the final score.
 
