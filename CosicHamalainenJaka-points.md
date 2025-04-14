@@ -70,7 +70,7 @@ You show activity by doing home exercises. It is enough that the task is correct
 
 | **Final Self-assessment** | 
 |:-------------------------:|
-|             -             |
+|             X             |
 
 Remember to return the final self-assessment after completing the course.
 

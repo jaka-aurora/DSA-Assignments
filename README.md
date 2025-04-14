@@ -40,8 +40,8 @@ If you complete at least one exercises of any home exercise, you can mark yourse
 
 ### Self-assessments
 
-* Do this at beginning of the course: [Self-assessment](self_assessments/LastnameFirstname-SelfAssessment.md)
-* And this when you completed the course:  [Final Self-assessment](self_assessments/LastnameFirstname-FinalSelfAssessment.md)
+* Do this at beginning of the course: [Self-assessment](self_assessments/CosicHämäläinenJaka-SelfAssessment.md)
+* And this when you completed the course:  [Final Self-assessment](self_assessments/CosicHämäläinenJaka-FinalSelfAssessment.md)
 
 Rename the _MarkDown_ documents according to the instructions. Always update links to readme file.
 
@@ -55,5 +55,5 @@ Remember to link the project files you've developed to the README file as well.
 
 Remember to update this file whenever you update new tasks to the repository.
 
-* [Assignment monitoring](LastnameFirstname-points.md)
+* [Assignment monitoring](CosicHamalainenJaka-points.md)
 
